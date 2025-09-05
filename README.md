@@ -40,6 +40,9 @@ Dengan adanya aplikasi ini, **RuliLearning** diharapkan dapat menjadi solusi pem
 
 
 
+---
+---
+
 LAMPIRAN
 
 HomePage
